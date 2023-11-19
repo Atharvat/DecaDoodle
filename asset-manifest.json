@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DecaDoodle/static/css/main.4dbf4f75.css",
-    "main.js": "/DecaDoodle/static/js/main.bc5a3a15.js",
+    "main.css": "/DecaDoodle/static/css/main.2d524451.css",
+    "main.js": "/DecaDoodle/static/js/main.ba710dfc.js",
     "static/js/787.17124520.chunk.js": "/DecaDoodle/static/js/787.17124520.chunk.js",
     "index.html": "/DecaDoodle/index.html",
-    "main.4dbf4f75.css.map": "/DecaDoodle/static/css/main.4dbf4f75.css.map",
-    "main.bc5a3a15.js.map": "/DecaDoodle/static/js/main.bc5a3a15.js.map",
+    "main.2d524451.css.map": "/DecaDoodle/static/css/main.2d524451.css.map",
+    "main.ba710dfc.js.map": "/DecaDoodle/static/js/main.ba710dfc.js.map",
     "787.17124520.chunk.js.map": "/DecaDoodle/static/js/787.17124520.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dbf4f75.css",
-    "static/js/main.bc5a3a15.js"
+    "static/css/main.2d524451.css",
+    "static/js/main.ba710dfc.js"
   ]
 }
